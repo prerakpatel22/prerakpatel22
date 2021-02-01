@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/YBX8miU.png" alt="Hero image">
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Meet Patel</h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Prerak Patel</h1>
 <!--<h2> Software Engineer,Java Developer, Web Developer & Full Stack Developer <img src="https://i.imgur.com/Vmv1Vem.gif" width="200px" align="right"></h2>-->
 <h3 align="center">A passionate Software Developer, Java Developer, Web Developer & Full Stack Developer<img src="https://i.imgur.com/Vmv1Vem.gif" width="200px" align="right"></h3>
 
@@ -8,7 +8,6 @@
 - 🌱 I’m currently looking for an internship starting january 2021<br>
 - 👯 I’m Oracle Certified Associate(Java SE 8 Programmer) and AWS Certified Solutions Architect<br>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Patidar1904" alt="Patidar1904" /> </p>-->
 <h3>Technologies and Tools</h3>
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
