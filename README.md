@@ -4,9 +4,8 @@
 <!--<h2> Software Engineer,Java Developer, Web Developer & Full Stack Developer <img src="https://i.imgur.com/Vmv1Vem.gif" width="200px" align="right"></h2>-->
 <h3 align="center">A passionate Software Developer, Java Developer, Web Developer & Full Stack Developer<img src="https://i.imgur.com/Vmv1Vem.gif" width="200px" align="right"></h3>
 
-- 🔭 I’m a Graduate Student at Windsor University<br>
-- 🌱 I’m currently looking for an internship starting january 2021<br>
-- 👯 I’m Oracle Certified Associate(Java SE 8 Programmer) and AWS Certified Solutions Architect<br>
+- 🔭 I’m a Graduate Student at Lakehead University<br>
+- 🌱 I’m currently looking for a Developer Job for May Graduates<br>
 
 <h3>Technologies and Tools</h3>
 <p align="left">
@@ -36,13 +35,12 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </p>
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats-zeta-rouge.vercel.app/api?username=Patidar1904&show_icons=true" alt="Patidar1904" /></p>-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patidar1904)](https://github.com/anuraghazra/github-readme-stats)-->
+
 <p align="center">
   <i>Let's connect!!</i>
   <p align="center">    
-    <a href="https://www.linkedin.com/in/meetpatel1904/" alt="Linkedin"><img src="https://i.imgur.com/xFuGGvw.png" width="40" height="40"/></a>
-    <a href="mailto:patel9f@uwindsor.ca" alt="Contact me"><img src="https://i.imgur.com/US98zbr.png" width="40" height="40"/></a>
+    <a href="https://www.linkedin.com/in/prerak-patel-679b44124/" alt="Linkedin"><img src="https://i.imgur.com/xFuGGvw.png" width="40" height="40"/></a>
+    <a href="mailto:ppatel74@lakeheadu.ca" alt="Contact me"><img src="https://i.imgur.com/US98zbr.png" width="40" height="40"/></a>
   </p>
 </p>
 <img src="https://i.imgur.com/V9FrWCE.png" alt="bottom">
